@@ -1,0 +1,762 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.11.15)  2 SEP 2019 17:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Chapter1.tex
+(./Chapter1.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./IETBook.cls
+
+LaTeX Warning: You have requested document class `IETBook',
+               but the document class provides `book'.
+
+Document Class: book 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\@bls=\dimen102
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
+Package: crop 2003/05/20 v1.9 crop marks (mf)
+\stockwidth=\dimen104
+\stockheight=\dimen105
+\CROP@index=\count88
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\CROP@offset=\count89
+Package crop Info: Local config file crop.cfg used on input line 605.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen110
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks16
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks17
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.sty
+
+LaTeX Warning: inputting `fleqn.clo' instead of obsolete `fleqn.sty'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen119
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip49
+\fb@frw=\dimen120
+\fb@frh=\dimen121
+\FrameRule=\dimen122
+\FrameSep=\dimen123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box28
+\rot@mess@toks=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/index/index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert199
+\indexproofstyle=\toks28
+)
+\minute=\count103
+\hour=\count104
+\rotdimen=\dimen124
+\all=\box29
+\lastpart=\box30
+\tempdime=\dimen125
+\temptbox=\box31
+\labelwidthi=\dimen126
+\labelwidthii=\dimen127
+\labelwidthiii=\dimen128
+\labelwidthiv=\dimen129
+\@maxlistdepth=\count105
+\c@theorem=\count106
+\c@lemma=\count107
+\c@proposition=\count108
+\c@remark=\count109
+\c@example=\count110
+\c@property=\count111
+\c@definition=\count112
+\idxtitle@default=\toks29
+\tf@default=\write3
+\openout3 = `Chapter1.idx'.
+
+Package index Info: Writing index file Chapter1.idx on input line 1103.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen130
+\lightrulewidth=\dimen131
+\cmidrulewidth=\dimen132
+\belowrulesep=\dimen133
+\belowbottomsep=\dimen134
+\aboverulesep=\dimen135
+\abovetopsep=\dimen136
+\cmidrulesep=\dimen137
+\cmidrulekern=\dimen138
+\defaultaddspace=\dimen139
+\@cmidla=\count113
+\@cmidlb=\count114
+\@aboverulesep=\dimen140
+\@belowrulesep=\dimen141
+\@thisruleclass=\count115
+\@lastruleclass=\count116
+\@thisrulewidth=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen143
+\extrarowheight=\dimen144
+\NC@list=\toks30
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count117
+\LTcapwidth=\dimen145
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count118
+\LT@rows=\count119
+\c@LT@tables=\count120
+\c@LT@chunks=\count121
+\LT@p@ftn=\toks31
+)
+
+LaTeX Warning: Unused global option(s):
+    [10pt].
+
+(./Chapter1.aux)
+\openout1 = `Chapter1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen146
+\scratchbox=\box36
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen147
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package crop Info: requested driver: `' on input line 10.
+Package crop Info: detected driver: `pdftex' on input line 10.
+Package crop Info: using `pdftex' graphics driver on input line 10.
+
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 20
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 20
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 20
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 20
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.40009> not available
+(Font)              size <8> substituted on input line 20.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.36008> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.40009> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\OT1/ptm/m/n/10 Sr.
+ []
+
+
+Overfull \hbox (3.87991pt too wide) in paragraph at lines 55--55
+\OT1/ptm/m/n/10 No.| 
+ []
+
+
+Overfull \hbox (5.78111pt too wide) in paragraph at lines 55--55
+[]|\OT1/ptm/m/n/10 Development 
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 58--58
+[]|\OT1/ptm/m/n/10 United Na-tions World Food Pro-gram (UN-WFP) is a
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]|\OT1/ptm/m/n/10 Enjoy pros-per-ous and ful-fill-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 94--94
+\OT1/ptm/m/n/10 ing lives, eco-nomic, so-cial, and
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 96--96
+\OT1/ptm/m/n/10 (SDG16) Peace, Jus-tice, and
+ []
+
+
+Overfull \hbox (1.8663pt too wide) in paragraph at lines 98--98
+[]|\OT1/ptm/b/n/10 Partnership| 
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 tic-i-pa-tion of all coun-tries, stake-
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 (SDG9) In-dus-try, In-no-va-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 (SDG11) Sus-tain-able Cities
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\OT1/ptm/m/n/10 (SDG12) Re-spon-si-ble Con-
+ []
+
+
+Overfull \hbox (22.01302pt too wide) in paragraph at lines 89--102
+ [] 
+ []
+
+<SDGs.png, id=13, 733.99219pt x 424.58624pt>
+File: SDGs.png Graphic file (type png)
+<use SDGs.png>
+Package pdftex.def Info: SDGs.png  used on input line 109.
+(pdftex.def)             Requested size: 252.94499pt x 146.31396pt.
+[3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./SDGs.png>]
+Overfull \hbox (2.10442pt too wide) in paragraph at lines 140--140
+[]|\OT1/ptm/b/n/10 Sr.
+ []
+
+
+Overfull \hbox (5.32452pt too wide) in paragraph at lines 140--140
+\OT1/ptm/b/n/10 No.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\OT1/ptm/m/n/10 Bioplastic, Bio-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+\OT1/ptm/m/n/10 degradable plas-tic and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/ptm/m/n/10 Renewable En-ergy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\OT1/ptm/m/n/10 Sources (e.g., Wind,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+[]|\OT1/ptm/m/n/10 Communication Tech-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 149--149
+\OT1/ptm/m/n/10 nolo-gies (e.g. Mo-bile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+\OT1/ptm/m/n/10 com-mu-ni-ca-tion, Wire-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+\OT1/ptm/m/n/10 less com-mu-ni-ca-tion,
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 155--155
+[]|\OT1/ptm/m/n/10 Digital Fi-nan-cial Tech-
+ []
+
+
+Overfull \hbox (3.94662pt too wide) in alignment at lines 139--158
+ [] [] [] 
+ []
+
+[6]
+Underfull \vbox (badness 10000) detected at line 158
+ []
+
+[7]
+Overfull \hbox (6.85454pt too wide) in paragraph at lines 173--174
+[]\OT1/ptm/m/n/10 The In-ter-net has bridged the in-for-ma-tion gap that ex-ist
+s be-tween a ser-vice provider
+ []
+
+<CS_Arch1.jpeg, id=30, 320.69812pt x 314.67563pt>
+File: CS_Arch1.jpeg Graphic file (type jpg)
+<use CS_Arch1.jpeg>
+Package pdftex.def Info: CS_Arch1.jpeg  used on input line 184.
+(pdftex.def)             Requested size: 144.54pt x 141.82838pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+[]|\OT1/ptm/m/n/10 Nodes, Com-mu-ni-ca-tion
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 196--197
+[]|\OT1/ptm/m/n/10 No need to achieve high
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 197--198
+[]|\OT1/ptm/m/n/10 Servers are dis-tributed in
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 199--200
+[]|\OT1/ptm/m/n/10 No bot-tle-neck as ser-vices
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 199--200
+\OT1/ptm/m/n/10 can be pro-vided through
+ []
+
+
+Overfull \hbox (1.85686pt too wide) in alignment at lines 190--203
+ [] [] [] 
+ []
+
+[8 <./CS_Arch1.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+<Decentralise.jpeg, id=37, 279.29344pt x 217.5628pt>
+File: Decentralise.jpeg Graphic file (type jpg)
+<use Decentralise.jpeg>
+Package pdftex.def Info: Decentralise.jpeg  used on input line 225.
+(pdftex.def)             Requested size: 144.54pt x 112.5955pt.
+
+
+LaTeX Warning: Reference `bc' on page 10 undefined on input line 229.
+
+[10 <./Decentralise.jpeg>]
+Overfull \hbox (10.06412pt too wide) in paragraph at lines 241--242
+[]\OT1/ptm/m/n/10 1) Au-then-ti-cat-ing iden-tity of agents in-volved in a busi
+-ness trans-ac-tion: Blockchain-
+ []
+
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (7.96442pt too wide) in paragraph at lines 277--278
+\OT1/ptm/m/n/10 through crypto-currencies or through fiat cur-ren-cies.The $\OM
+L/ztmcm/m/it/10 NagriCoin$ \OT1/ptm/m/n/10 ($\OML/ztmcm/m/it/10 nagricoin:io$\O
+T1/ptm/m/n/10 )
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16]
+Overfull \hbox (20.84439pt too wide) in paragraph at lines 385--386
+[]\OT1/ptm/b/n/10 Record keep-ing and en-sur-ing con-fi-den-tial-ity of in-for-
+ma-tion \OT1/ptm/m/n/10 The use of blockchain
+ []
+
+
+Overfull \hbox (0.27428pt too wide) in paragraph at lines 387--388
+[]\OT1/ptm/m/n/10 All such doc-u-ments are valu-able to med-i-cal re-searchers,
+ health care providers,
+ []
+
+[17] (./Chapter1.bbl
+Underfull \hbox (badness 2573) in paragraph at lines 10--13
+[]\OT1/ptm/m/n/10 McCall B.  UNDP to re-engineer fund-ing strat-egy.  The Lance
+t.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \hbox (badness 6125) in paragraph at lines 125--128
+[]\OT1/ptm/m/n/10 Schweiz Z.  The Blockchain for Im-pact:Technical White Pa-per
+.
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+) [19] (./Chapter1.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.40009pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3587 strings out of 492982
+ 47388 string characters out of 6134895
+ 116110 words of memory out of 5000000
+ 7029 multiletter control sequences out of 15000+600000
+ 47960 words of font info for 109 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,26p,1321b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Chapter1.pdf (19 pages, 406929 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
